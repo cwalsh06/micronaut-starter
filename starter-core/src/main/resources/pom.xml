@@ -130,7 +130,7 @@
         <dependency>
             <groupId>com.microsoft.azure</groupId>
             <artifactId>azure-functions-maven-plugin</artifactId>
-            <version>1.16.0</version>
+            <version>1.17.0</version>
         </dependency>
         <dependency>
             <groupId>org.asciidoctor</groupId>
@@ -190,12 +190,12 @@
         <dependency>
             <groupId>org.openrewrite.recipe</groupId>
             <artifactId>rewrite-micronaut</artifactId>
-            <version>1.11.0</version>
+            <version>1.15.0</version>
         </dependency>
         <dependency>
             <groupId>org.openrewrite.maven</groupId>
             <artifactId>rewrite-maven-plugin</artifactId>
-            <version>4.24.0</version>
+            <version>4.33.0</version>
         </dependency>
         <dependency>
             <groupId>org.openrewrite</groupId>

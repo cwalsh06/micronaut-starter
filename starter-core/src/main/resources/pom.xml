@@ -40,7 +40,7 @@
         <dependency>
             <groupId>io.micronaut.build.internal</groupId>
             <artifactId>micronaut-gradle-plugins</artifactId>
-            <version>5.3.10</version>
+            <version>6.3.0</version>
         </dependency>
         <dependency>
             <groupId>com.gradle</groupId>
@@ -65,7 +65,7 @@
         <dependency>
             <groupId>info.novatec</groupId>
             <artifactId>micronaut-camunda-bpm-feature</artifactId>
-            <version>2.7.0</version>
+            <version>2.10.0</version>
         </dependency>
         <dependency>
             <groupId>info.novatec</groupId>
@@ -125,12 +125,12 @@
         <dependency>
             <groupId>org.asciidoctor</groupId>
             <artifactId>asciidoctor-maven-plugin</artifactId>
-            <version>2.2.2</version>
+            <version>2.2.4</version>
         </dependency>
         <dependency>
             <groupId>com.microsoft.azure</groupId>
             <artifactId>azure-functions-maven-plugin</artifactId>
-            <version>1.16.0</version>
+            <version>1.27.0</version>
         </dependency>
         <dependency>
             <groupId>org.asciidoctor</groupId>
@@ -210,7 +210,7 @@
         <dependency>
             <groupId>gg.jte</groupId>
             <artifactId>jte-maven-plugin</artifactId>
-            <version>2.0.3</version>
+            <version>3.0.0</version>
         </dependency>
         <dependency>
             <groupId>jakarta.json.bind</groupId>

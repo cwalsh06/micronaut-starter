@@ -40,7 +40,7 @@
         <dependency>
             <groupId>io.micronaut.build.internal</groupId>
             <artifactId>micronaut-gradle-plugins</artifactId>
-            <version>5.3.10</version>
+            <version>6.5.7</version>
         </dependency>
         <dependency>
             <groupId>com.gradle</groupId>

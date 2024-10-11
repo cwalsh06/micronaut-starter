@@ -75,7 +75,7 @@
         <dependency>
             <groupId>info.novatec</groupId>
             <artifactId>micronaut-zeebe-client-feature</artifactId>
-            <version>1.7.0</version>
+            <version>1.19.0</version>
         </dependency>
         <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
@@ -195,7 +195,7 @@
         <dependency>
             <groupId>org.openrewrite.maven</groupId>
             <artifactId>rewrite-maven-plugin</artifactId>
-            <version>4.24.0</version>
+            <version>5.42.2</version>
         </dependency>
         <dependency>
             <groupId>org.openrewrite</groupId>

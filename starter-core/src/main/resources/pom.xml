@@ -40,7 +40,7 @@
         <dependency>
             <groupId>io.micronaut.build.internal</groupId>
             <artifactId>micronaut-gradle-plugins</artifactId>
-            <version>5.3.10</version>
+            <version>6.6.3</version>
         </dependency>
         <dependency>
             <groupId>com.gradle</groupId>
@@ -195,7 +195,7 @@
         <dependency>
             <groupId>org.openrewrite.maven</groupId>
             <artifactId>rewrite-maven-plugin</artifactId>
-            <version>4.24.0</version>
+            <version>5.42.2</version>
         </dependency>
         <dependency>
             <groupId>org.openrewrite</groupId>
